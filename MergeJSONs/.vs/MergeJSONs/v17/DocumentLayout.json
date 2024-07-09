@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsvetan.petrov\\Desktop\\OperationsManager-MVC\\MergeJSONs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49373D2-7FD7-40E8-B348-4FCF30079580}|MergeJSONs\\MergeJSONs.csproj|c:\\users\\tsvetan.petrov\\desktop\\operationsmanager-mvc\\mergejsons\\mergejsons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49373D2-7FD7-40E8-B348-4FCF30079580}|MergeJSONs\\MergeJSONs.csproj|solutionrelative:mergejsons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsvetan.petrov\\Desktop\\OperationsManager-MVC\\MergeJSONs\\MergeJSONs\\Program.cs",
+              "RelativeDocumentMoniker": "MergeJSONs\\Program.cs",
+              "ToolTip": "C:\\Users\\tsvetan.petrov\\Desktop\\OperationsManager-MVC\\MergeJSONs\\MergeJSONs\\Program.cs",
+              "RelativeToolTip": "MergeJSONs\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:46:49.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

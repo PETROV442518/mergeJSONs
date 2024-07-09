@@ -1,0 +1,17 @@
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Debug\net8.0\MergeJSONs.exe
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Debug\net8.0\MergeJSONs.deps.json
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Debug\net8.0\MergeJSONs.runtimeconfig.json
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Debug\net8.0\MergeJSONs.dll
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Debug\net8.0\MergeJSONs.pdb
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.csproj.AssemblyReference.cache
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.AssemblyInfoInputs.cache
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.AssemblyInfo.cs
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.csproj.CoreCompileInputs.cache
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.csproj.Up2Date
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.dll
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\refint\MergeJSONs.dll
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.pdb
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\MergeJSONs.genruntimeconfig.cache
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\obj\Debug\net8.0\ref\MergeJSONs.dll

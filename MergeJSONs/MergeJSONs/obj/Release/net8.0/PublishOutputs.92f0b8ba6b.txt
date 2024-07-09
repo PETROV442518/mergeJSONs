@@ -1,0 +1,6 @@
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Release\net8.0\publish\MergeJSONs.exe
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Release\net8.0\publish\MergeJSONs.dll
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Release\net8.0\publish\MergeJSONs.deps.json
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Release\net8.0\publish\MergeJSONs.runtimeconfig.json
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Release\net8.0\publish\MergeJSONs.pdb
+C:\Users\tsvetan.petrov\Desktop\OperationsManager-MVC\MergeJSONs\MergeJSONs\bin\Release\net8.0\publish\Newtonsoft.Json.dll

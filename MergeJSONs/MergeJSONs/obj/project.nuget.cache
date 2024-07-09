@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYBscopQ70GRL8irUBhtwCaUAWYg44KnIK9GocYl6itc/+E4RhN/J37sUkDQUMq3eU7lhcW8PGY//F2JmzT20g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsvetan.petrov\\Desktop\\OperationsManager-MVC\\MergeJSONs\\MergeJSONs\\MergeJSONs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsvetan.petrov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
